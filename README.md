@@ -10,14 +10,23 @@ This project demonstrates the construction of a robust data processing pipeline 
 
 ### Learning Objectives
 Google Cloud Storage: Understand the project and its integration with Google Cloud Storage.
+
 Architecture Visualization: Visualize the complete system architecture.
+
 Google Cloud SDK: Introduction to Google Cloud SDK and connecting it to the service account.
+
 Yelp Dataset: Explore Yelp dataset, utilizing both JSON stream and JSON file.
+
 PubSub: Create and use PubSub topics for data ingestion.
+
 Apache Beam: Understand and use Apache Beam for executing data processing pipelines.
+
 Dataflow: Create and comprehend Dataflow stream and batch jobs.
+
 Cloud Composer/Airflow: Understand and use Cloud Composer for orchestrating batch workloads.
+
 BigQuery: Integrate Google Cloud Dataflow and Google BigQuery as a data warehouse.
+
 Data Studio: Visualize live stream results using Google Data Studio.
 
 ### Project Description
