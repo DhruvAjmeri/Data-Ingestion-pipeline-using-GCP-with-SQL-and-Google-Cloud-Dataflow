@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 
-"""An Apache Beam batch pipeline example.
+"""An Apache Beam batch pipeline.
 It reads JSON encoded messages from GCS file, transforms the message data and
 writes the results to BigQuery.
 """
