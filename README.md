@@ -8,10 +8,7 @@ Data Ingestion project using GCP with SQL and Google Cloud Dataflow
 ### Overview
 This project demonstrates the construction of a robust data processing pipeline on Google Cloud Platform (GCP) utilizing Apache Beam, Dataflow, and BigQuery, with a focus on the Yelp dataset. The pipeline encompasses data ingestion, transformation, and visualization, offering insights into real-time streaming and batch processing.
 
-### Learning Objectives
-**Google Cloud Storage:** Understand the project and its integration with Google Cloud Storage.  
-**Architecture Visualization:** Visualize the complete system architecture.  
-**Google Cloud SDK:** Introduction to Google Cloud SDK and connecting it to the service account.  
+### Learning Objectives  
 **Yelp Dataset:** Explore Yelp dataset, utilizing both JSON stream and JSON file.  
 **PubSub:** Create and use PubSub topics for data ingestion.  
 **Apache Beam:** Understand and use Apache Beam for executing data processing pipelines.  
