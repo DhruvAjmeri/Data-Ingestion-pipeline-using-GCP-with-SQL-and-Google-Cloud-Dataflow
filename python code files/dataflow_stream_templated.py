@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-"""An Apache Beam streaming pipeline example.
+"""An Apache Beam streaming pipeline.
 It reads JSON encoded messages from Pub/Sub, transforms the message data and
 writes the results to BigQuery.
 """
